@@ -1,0 +1,32 @@
+{
+    "bot_token": "7181926875:AAGlefwkZD-4QEI-kPZnW_7eHuTu14SGNzs",
+    "api_id": 23854674,
+    "api_hash": "c1eb832e3126bacdf74de936f9fe8e75",
+    "admins": [
+        {
+            "user_id": 6467402477
+        }
+    ],
+    "accounts": {
+        "+989387940287": {
+            "api_id": 23854674,
+            "api_hash": "c1eb832e3126bacdf74de936f9fe8e75",
+            "session_string": null,
+            "status": "disconnected",
+            "added_date": "2025-10-16T12:15:11.816432"
+        },
+        "+989351819881": {
+            "api_id": 23854674,
+            "api_hash": "c1eb832e3126bacdf74de936f9fe8e75",
+            "session_string": null,
+            "status": "disconnected",
+            "added_date": "2025-10-16T12:20:58.380750"
+        }
+    },
+    "sessions": {},
+    "settings": {
+        "auto_join": true,
+        "auto_report": true,
+        "view_reactions": true
+    }
+}
